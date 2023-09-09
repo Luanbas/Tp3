@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Luanbas/Tp3/static/css/main.d3eca42f.css",
+    "main.js": "/Luanbas/Tp3/static/js/main.8388ab19.js",
+    "static/js/787.bc7d429a.chunk.js": "/Luanbas/Tp3/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/Luanbas/Tp3/index.html",
+    "main.d3eca42f.css.map": "/Luanbas/Tp3/static/css/main.d3eca42f.css.map",
+    "main.8388ab19.js.map": "/Luanbas/Tp3/static/js/main.8388ab19.js.map",
+    "787.bc7d429a.chunk.js.map": "/Luanbas/Tp3/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3eca42f.css",
+    "static/js/main.8388ab19.js"
+  ]
+}
